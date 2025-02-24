@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/index/","hideInGraph":"true","pinned":"true","tags":["gardenEntry"],"dgShowLocalGraph":"false","noteIcon":""}
 ---
 
 # Introduction
