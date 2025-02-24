@@ -4,5 +4,5 @@
 
 ## Service model diagram
 
-![software.png](/img/user/Excalidraw/draw_images/software.png)
+![service metadata.excalidraw.png|800](/img/user/NFDI4Objects/Excalidraw%20drawing/service%20metadata.excalidraw.png)
 
