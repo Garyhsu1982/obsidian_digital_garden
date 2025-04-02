@@ -26,7 +26,7 @@ WHERE
 
 Corresponding Result (insert as HTML iframe)
 
-<iframe style="width: 60vw; height: 50vh; border: none;" src="https://query.wikidata.org/embed.html#%23defaultView%3AMap%0ASELECT%20%3Fconsoritum%20%3FconsoritumLabel%20%3Faffiliation%20%3FaffiliationLabel%20%3Fgeo%0AWHERE%0A%7B%0A%20%20%3Fconsoritum%20wdt%3AP361%20wd%3AQ61658497.%0A%20%0A%20%20%3Fconsoritum%20wdt%3AP31%20wd%3AQ98270496.%0A%20%20%0A%20%20%3Fconsoritum%20wdt%3AP1416%20%3Faffiliation.%0A%20%20%0A%20%20OPTIONAL%20%7B%3Faffiliation%20wdt%3AP625%20%3Fgeo.%7D%0A%20%20%0A%20%20SERVICE%20wikibase%3Alabel%20%7Bbd%3AserviceParam%20wikibase%3Alanguage%20%22en%22.%7D%0A%7D%0A%20%20" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+<iframe style="width: 40vw; height: 40vh; border: none;" src="https://query.wikidata.org/embed.html#%23defaultView%3AMap%0ASELECT%20%3Fconsoritum%20%3FconsoritumLabel%20%3Faffiliation%20%3FaffiliationLabel%20%3Fgeo%0AWHERE%0A%7B%0A%20%20%3Fconsoritum%20wdt%3AP361%20wd%3AQ61658497.%0A%20%0A%20%20%3Fconsoritum%20wdt%3AP31%20wd%3AQ98270496.%0A%20%20%0A%20%20%3Fconsoritum%20wdt%3AP1416%20%3Faffiliation.%0A%20%20%0A%20%20OPTIONAL%20%7B%3Faffiliation%20wdt%3AP625%20%3Fgeo.%7D%0A%20%20%0A%20%20SERVICE%20wikibase%3Alabel%20%7Bbd%3AserviceParam%20wikibase%3Alanguage%20%22en%22.%7D%0A%7D%0A%20%20" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 
 Example SPARQL code
