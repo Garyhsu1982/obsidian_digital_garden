@@ -53,7 +53,7 @@ WissKI meeting 2024 ([doc](https://docs.google.com/document/d/1SX0y778HpjV35q6Uo
 [official website](https://dspace.org/)
 [wiki guide](https://wiki.lyrasis.org/display/DSPACE/Home) 
 [instances](https://dspace.org/registry/)
-## EasyDB-Fylr
+### EasyDB-Fylr
 [Fylr documentation](https://docs.fylr.io/))
 **community meeting 2025 notes**: [link](https://docs.google.com/document/d/18pVGC_bQFgcOYijjlqJqB-nZDhrjmFP7Tj7PzInXapc/edit?tab=t.0#heading=h.m8w43bakqrmb)
 https://heidicon.ub.uni-heidelberg.de/search
@@ -64,4 +64,83 @@ Digital Object Management Software
 ### Kitodo
 Software to manage a digital library 
 [official website](https://www.kitodo.org/en/software/about-the-software) 
+
+### InvenioRDM
+Workshop at the University of Münster [presentation](https://pad.uni-muenster.de/p/5K3B3kUsk#/). [Official Documentation](https://inveniordm.docs.cern.ch/)
+
+You need to install 1. Devbox and 2. Docker and Docker compose
+
+
+1. Devbox installieren
+```
+curl -fsSL https://get.jetpack.io/devbox | bash
+```
+
+2. Devbox Repo clonen & aktivieren
+
+```
+git clone git@github.com:ulbmuenster/invenio-devbox.git
+cd invenio-devbox
+devbox shell
+```
+
+3. InvenioRDM installieren
+
+```
+devbox run install-empty
+```
+
+4. InvenioRDM starten
+
+```
+cd my-site
+invenio-cli run
+```
+
+Then, open https://127.0.0.1:5000/ in the browser
+Default account: [admin@inveniosoftware.org](mailto:admin@inveniosoftware.org) Default password: 123456 
+
+
+5. Customise the submission forms (change metadata profile)
+
+garyhsu@G05-LAP-HSU:~/invenio-devbox/my-site/app_data/vocabularies$
+
+the default installation under invenio-devbox/.venv/var/instance/assests/js you can modify
+then paste it to the same folder to my-site
+
+If you want to change forms, you
+
+garyhsu@G05-LAP-HSU:~/invenio-devbox$ devbox sdhell
+(.venv) (devbox) garyhsu@G05-LAP-HSU:~/invenio-devbox$ cd my-site/
+(.venv) (devbox) garyhsu@G05-LAP-HSU:~/invenio-devbox/my-site$ invenio-cli services stop
+Stopping containers...
+Stopped containers.
+(.venv) (devbox) garyhsu@G05-LAP-HSU:~/invenio-devbox/my-site$ exit
+exit
+garyhsu@G05-LAP-HSU:~/invenio-devbox$ ls
+README.md  devbox.json  devbox.lock  devbox_scripts  invenio-test  my-site
+garyhsu@G05-LAP-HSU:~/invenio-devbox$
+
+6. IN
+
+
+
+
+
+## Documentation Tools
+### Read the docs
+
+### Gitbook
+
+### Collection
+[https://github.com/MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners)
+
+### HedgeDoc
+
+
+## Online Diagram Plotting Tools
+### Rawgraphs
+https://app.rawgraphs.io/
+
+
 

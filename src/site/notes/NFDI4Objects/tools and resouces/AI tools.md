@@ -7,3 +7,5 @@
 ## Open Research Knowledge Graph
 Find research you are actually looking for: [AI tool](https://ask.orkg.org/), [repository](https://orkg.org/) [comparison](https://orkg.org/comparison/R702114)
 
+## CIDOC-CRM Modeller
+https://chatgpt.com/g/g-mqZjseYHI-cidoc-crm-modeller

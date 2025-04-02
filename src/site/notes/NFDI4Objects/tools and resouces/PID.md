@@ -10,6 +10,9 @@
 
 [B2Inst](https://b2inst.gwdg.de/) for instruments
 [Handle Server](https://github.com/nfdi4cat/pid4cat-model) developed by NFDI4Cat
+
+https://www.dona.net/mpas
+https://gwdg.de/
 		
 ## pURL
 w3id [Github](https://github.com/perma-id/w3id.org) Repo with some [further examples](https://github.com/tibonto/DFG-Fachsystematik-Ontology/issues/10)

@@ -14,7 +14,11 @@ search instruments through metadata profiles developed by GFz.
 register lab services for heritage science. 
 ### [E-RIHS catalogue of services](https://erihs.netseven.work/catalogue) 
 
-### commercial websites
-Database for [commercial devices](https://speciation.net/Database/Instruments/Carl-Zeiss-AG/SUPRA-40VP-;i667)
+### [EVISA](https://speciation.net/)
+Database of analytical devices
+### [Capterra](https://www.capterra.com/)
+Search engine for software
 
-
+### [Open Science Framework](https://osf.io/dashboard)
+The Open Science Framework (OSF) is an [open source](https://en.wikipedia.org/wiki/Open-source_software "Open-source software") software project that facilitates open collaboration in science research.
+[Presentation](https://osf.io/gwkfm)
