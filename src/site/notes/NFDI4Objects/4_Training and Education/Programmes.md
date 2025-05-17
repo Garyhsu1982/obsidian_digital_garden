@@ -7,7 +7,7 @@
 A Collection of Programmes for [Research Software Engineer](https://de-rse.org/learn-and-teach/learn/)
 [Bibliotheks- und Informationswissenschaft](https://www.th-koeln.de/studium/bibliotheks--und-informationswissenschaft-master_3202.php), TH Köln
 
-### Zertifikatskurs
+### Certificate Courses
 ---
 
 [Forschungsdatenmanagement](https://www.th-koeln.de/weiterbildung/zertifikatskurs-forschungsdatenmanagement_82048.php) TH Köln
