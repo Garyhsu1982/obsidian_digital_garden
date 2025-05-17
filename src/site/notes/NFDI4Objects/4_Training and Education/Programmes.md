@@ -15,10 +15,8 @@ A Collection of Programmes for [Research Software Engineer](https://de-rse.org/l
 [Research Software Engineering](https://www.uni-muenster.de/CMTC/en/rse/index.html), Uni Münster
 
 ### Ausbildung
-
+---
 [IT-Ausbildung](https://www.it-ausbildung.ruhr-uni-bochum.de/), Ruhr Universität 
-### Umschulung
-
 
 ### Bootcamp
 ---
@@ -26,7 +24,7 @@ A Collection of Programmes for [Research Software Engineer](https://de-rse.org/l
 TechLabs is a globally acting non-profit organization led by volunteers that builds and offers free cohort-based learning programs in technology skills.
 
 ### Vocational School
-
+---
 [Fachschule für Informatik](https://bk-ostvest.de/index.php/fachschule-fuer-informatik), BK Ostvest, Datteln
 
 
