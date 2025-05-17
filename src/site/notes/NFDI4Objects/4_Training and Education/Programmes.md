@@ -14,7 +14,7 @@ A Collection of Programmes for [Research Software Engineer](https://de-rse.org/l
 
 [Research Software Engineering](https://www.uni-muenster.de/CMTC/en/rse/index.html), Uni Münster
 
-### Ausbildung
+### Practical Training
 ---
 [IT-Ausbildung](https://www.it-ausbildung.ruhr-uni-bochum.de/), Ruhr Universität 
 
